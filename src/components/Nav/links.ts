@@ -16,27 +16,19 @@ const links: NavProps['links'] = [
   },
   {
     label: 'Farms',
-    href: 'https://pancakeswap.finance/farms'
+    href: 'https://info.bubo.io/#/dashboard/farms'
   },
   {
-    label: 'Pools',
-    href: 'https://pancakeswap.finance/pools'
+    label: 'Loans',
+    href: 'https://info.bubo.io/#/dashboard/lending'
   },
   {
     label: 'Lottery',
-    href: 'https://pancakeswap.finance/lottery'
+    href: 'https://info.bubo.io/#/dashboard/lottery'
   },
   {
     label: 'Info',
-    href: 'https://pancakeswap.info'
-  },
-  {
-    label: 'IFO',
-    href: 'https://pancakeswap.finance/ifo'
-  },
-  {
-    label: 'NFT',
-    href: 'https://pancakeswap.finance/nft'
+    href: 'https://info.bubo.io'
   }
 ]
 
