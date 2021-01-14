@@ -25,11 +25,11 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/bubo.png"
-    },    
+    },
     {
       "name": "GBT",
       "symbol": "GBT",
-      "address": "0xD678c73da3c9D8EB8F5E14b64BD5b5D1f47419eC",      
+      "address": "0x6b846A9a555cBa583E4E91D28e51E234fB8153fB",      
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/gbt.png"
