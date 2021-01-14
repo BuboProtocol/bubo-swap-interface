@@ -1,15 +1,15 @@
 
-# Pancake Swap Listing Tutorial
+# Bubo Protocol Listing Tutorial
 
-So, you’ve come, you’ve tasted our secret sauce and now you’re wanting to be a part of the PancakeSwap kitchen.
+So, you’ve come, you’ve tasted our secret sauce and now you’re wanting to be a part of the Bubo Protocol kitchen.
 
-If you’re interested in listing on the PancakeSwap exchange, follow this guide closely.
+If you’re interested in listing on the Bubo Protocol exchange, follow this guide closely.
 
 ## Adding Tokens
 
-If you are seeking to be added to the [Pancakeswap.finance](https://pancakeswap.finance/) exchange, you should:
+If you are seeking to be added to the [bubo.io](https://bubo.io/) exchange, you should:
 
-1. Fork the [PancakeSwap Interface](https://github.com/pancakeswap/pancake-swap-interface/) repository on GitHub
+1. Fork the [Bubo Protocol Interface](https://github.com/buboprotocol/bubo-swap-interface/) repository on GitHub
 2. Upload your **logo** in a 96*96px transparent .png format to the `/public/images/coins` directory. Please name the logo as your symbol in uppercase.
 
 3. Add your **token information** using the example format provided below to `pancakeswap.json` in the `/src/constants/token/` directory.
@@ -35,7 +35,7 @@ If you are seeking to be added to the [Pancakeswap.finance](https://pancakeswap.
 },
 ```
 
-If you're not comfortable with GitHub pull requests, please open a [new issue](https://github.com/pancakeswap/pancake-swap-interface/issues/new) requesting to be added.
+If you're not comfortable with GitHub pull requests, please open a [new issue](https://github.com/buboprotocol/bubo-swap-interface/issues/new) requesting to be added.
 
 ## Reviews
 
