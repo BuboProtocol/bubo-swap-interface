@@ -19,13 +19,21 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
-      "name": "WBNB Token 2",
-      "symbol": "WBNB 2",
+      "name": "BUBO",
+      "symbol": "BUBO",
       "address": "0xD678c73da3c9D8EB8F5E14b64BD5b5D1f47419eC",      
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "/images/coins/BUSD.png"
+      "logoURI": "/images/coins/bubo.png"
     },    
+    {
+      "name": "GBT",
+      "symbol": "GBT",
+      "address": "0xD678c73da3c9D8EB8F5E14b64BD5b5D1f47419eC",      
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/gbt.png"
+    },
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
