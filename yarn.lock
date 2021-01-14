@@ -2393,6 +2393,15 @@
     "@svgr/plugin-svgo" "^5.4.0"
     loader-utils "^2.0.0"
 
+"@swap-libs/uikit@https://github.com/lomeliDev/pancake-uikit.git#0.6.1":
+  version "0.6.1"
+  resolved "https://github.com/lomeliDev/pancake-uikit.git#368e4efa2b9c92f37a648b824acb3afabe209086"
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    styled-system "^5.1.5"
+
 "@testing-library/dom@^7.11.0":
   version "7.29.0"
   resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-7.29.0.tgz#60b18065bab50a5cde21fe80275a47a43024d9cc"
@@ -8430,6 +8439,14 @@ hoist-non-react-statics@^3.0.0, hoist-non-react-statics@^3.1.0, hoist-non-react-
   integrity sha512-/gGivxi8JPKWNm/W0jSmzcMPpfpPLc3dY/6GxhX2hQ9iGj3aDfklV4ET7NjKpSinLpJ5vafa9iiGIEZg10SfBw==
   dependencies:
     react-is "^16.7.0"
+
+"hola@file:../../uikit":
+  version "0.6.1"
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    styled-system "^5.1.5"
 
 home-or-tmp@^2.0.0:
   version "2.0.0"

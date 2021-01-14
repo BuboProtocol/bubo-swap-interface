@@ -1,10 +1,36 @@
 # Ignore crowdInApi details for translations - contact admin if you need these
 src/constants/localisation/crowdInApi.ts
+.firebaserc
+/.firebaserc
+firebase.json
+.firebase
+/.firebase
+/.firebase/
+firebase*
+
+# Firebase Hosting
+.firebaserc
+firebase-debug.log
 
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 sftp-config.json
 # dependencies
 /node_modules
+yarn.lock
+/yarn.lock
+
+.firebaserc
+/.firebaserc
+firebase.json
+.firebase
+/.firebase
+/.firebase/
+firebase*
+
+# Firebase Hosting
+.firebaserc
+firebase-debug.log
+
 
 # testing
 /coverage
@@ -39,3 +65,15 @@ cypress/screenshots
 cypress/fixtures/example.json
 
 .eslintcache
+
+.firebaserc
+/.firebaserc
+firebase.json
+.firebase
+/.firebase
+/.firebase/
+firebase*
+
+# Firebase Hosting
+.firebaserc
+firebase-debug.log
