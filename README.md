@@ -1,12 +1,12 @@
-![pancakeswap](https://pancakeswap.finance/logo.png)
+![buboprotocol](https://bubo.io/logo.png)
 
 ## Intro
 
-[PancakeSwap](https://pancakeswap.finance/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
+[buboprotocol](https://bubo.io/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
 
 ##
 
-This repo is responsible for the **exchange/pool** interfaace of the AMM: [exchange.pancakeswap.finance](https://exchange.pancakeswap.finance/)
+This repo is responsible for the **exchange/pool** interfaace of the AMM: [exchange.bubo.io](https://exchange.bubo.io/)
 
 ## Run locally
 
