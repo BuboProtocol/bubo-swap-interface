@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@pancakeswap-libs/sdk'
+import { Trade, TradeType } from 'bubo-swap-sdk'
 import React, { useMemo, useState } from 'react'
 import { Text } from '@pancakeswap-libs/uikit'
 import { Repeat } from 'react-feather'

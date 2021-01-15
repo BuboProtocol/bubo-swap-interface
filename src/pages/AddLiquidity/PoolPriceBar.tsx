@@ -1,4 +1,4 @@
-import { Currency, Percent, Price } from '@pancakeswap-libs/sdk'
+import { Currency, Percent, Price } from 'bubo-swap-sdk'
 import React, { useContext } from 'react'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'

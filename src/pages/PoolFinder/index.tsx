@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from '@pancakeswap-libs/sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from 'bubo-swap-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Text } from 'rebass'
 import { Button, ChevronDownIcon, AddIcon, CardBody } from '@pancakeswap-libs/uikit'
