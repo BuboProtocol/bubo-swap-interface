@@ -292,7 +292,7 @@ const Swap = () => {
       />
       <CardNav />
       <AppBody>
-        <Wrapper id="swap-page">
+        <Wrapper id="swap-page" className="holis">
           <ConfirmSwapModal
             isOpen={showConfirm}
             trade={trade}

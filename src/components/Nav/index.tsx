@@ -13,6 +13,7 @@ const Menu = () => {
   const { isDark, toggleTheme } = useTheme()
 
   useEffect(() => {
+    console.log(isDark)
     const checkLogo = () => {
       const label = document.querySelector('[aria-label="Pancake home page"]')
       if (label !== null) {
