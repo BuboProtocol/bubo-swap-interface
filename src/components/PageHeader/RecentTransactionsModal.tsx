@@ -38,7 +38,6 @@ const RecentTransactionsModal = ({ onDismiss = defaultOnDismiss }: RecentTransac
     const txs = Object.values(allTransactions)
     return txs.filter(isTransactionRecent).sort(newTransactionsFirst)
   }, [allTransactions])
-  console.log(sortedRecentTransactions)
 
   return (
     <Modal title="Recent Transactions" onDismiss={onDismiss}>

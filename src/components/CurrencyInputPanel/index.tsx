@@ -137,7 +137,7 @@ export default function CurrencyInputPanel({
           {!hideInput && (
             <>
               <NumericalInput
-                className="token-amount-input"
+                className="ts"
                 value={value}
                 onUserInput={val => {
                   onUserInput(val)
