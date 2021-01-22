@@ -1,7 +1,7 @@
 import { Currency, ETHER, JSBI, TokenAmount } from 'bubo-swap-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Text } from 'rebass'
-import { Button, ChevronDownIcon, AddIcon, CardBody } from '@pancakeswap-libs/uikit'
+import { Button, ChevronDownIcon, AddIcon, CardBody } from 'bubo-swap-uikit'
 import CardNav from 'components/CardNav'
 import { LightCard } from 'components/Card'
 import { AutoColumn, ColumnCenter } from 'components/Column'

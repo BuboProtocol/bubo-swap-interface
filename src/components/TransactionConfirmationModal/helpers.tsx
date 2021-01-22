@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, IconButton, CloseIcon } from '@pancakeswap-libs/uikit'
+import { Heading, IconButton, CloseIcon } from 'bubo-swap-uikit'
 import { AutoColumn, ColumnCenter } from '../Column'
 import { ReactNode } from 'react'
 

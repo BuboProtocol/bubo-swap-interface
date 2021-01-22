@@ -1,6 +1,6 @@
 import React from 'react'
 import { Price } from 'bubo-swap-sdk'
-import { SyncAltIcon, Text } from '@pancakeswap-libs/uikit'
+import { SyncAltIcon, Text } from 'bubo-swap-uikit'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

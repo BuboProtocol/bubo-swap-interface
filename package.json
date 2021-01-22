@@ -5,7 +5,6 @@
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
-    "bubo-swap-sdk": "1.0.2",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
@@ -37,6 +36,7 @@
     "@web3-react/walletconnect-connector": "^6.1.1",
     "@web3-react/walletlink-connector": "^6.0.9",
     "ajv": "^6.12.3",
+    "bubo-swap-sdk": "1.0.2",
     "cids": "^1.0.0",
     "copy-to-clipboard": "^3.2.0",
     "cypress": "^4.11.0",
@@ -105,6 +105,8 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
-    "@pancakeswap-libs/uikit": "0.6.1"
+    "bubo-swap-uikit": "^0.6.4",
+    "global": "^4.4.0",
+    "storybook": "^6.1.14"
   }
 }

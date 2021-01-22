@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react'
 import styled from 'styled-components'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from 'bubo-swap-uikit'
 import { TYPE } from '../Shared'
 import Modal from '../Modal'
 import { AutoRow, RowBetween } from '../Row'

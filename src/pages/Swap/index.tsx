@@ -1,7 +1,7 @@
 import { CurrencyAmount, JSBI, Token, Trade } from 'bubo-swap-sdk'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { ArrowDown } from 'react-feather'
-import { CardBody, ArrowDownIcon, Button, IconButton, Text as UIKitText } from '@pancakeswap-libs/uikit'
+import { CardBody, ArrowDownIcon, Button, IconButton, Text as UIKitText } from 'bubo-swap-uikit'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'
 import AddressInputPanel from 'components/AddressInputPanel'

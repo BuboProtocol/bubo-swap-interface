@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from 'bubo-swap-uikit'
 import { Text } from 'rebass'
 import { AlertTriangle } from 'react-feather'
 import { AutoColumn } from '../Column'

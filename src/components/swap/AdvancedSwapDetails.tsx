@@ -1,6 +1,6 @@
 import React from 'react'
 import { Trade, TradeType } from 'bubo-swap-sdk'
-import { Card, CardBody, Text } from '@pancakeswap-libs/uikit'
+import { Card, CardBody, Text } from 'bubo-swap-uikit'
 import { Field } from '../../state/swap/actions'
 import { useUserSlippageTolerance } from '../../state/user/hooks'
 import { computeSlippageAdjustedAmounts, computeTradePriceBreakdown } from '../../utils/prices'

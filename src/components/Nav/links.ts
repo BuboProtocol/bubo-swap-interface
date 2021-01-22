@@ -1,4 +1,4 @@
-import { NavProps } from '@pancakeswap-libs/uikit'
+import { NavProps } from 'bubo-swap-uikit'
 
 const links: NavProps['links'] = [
   {

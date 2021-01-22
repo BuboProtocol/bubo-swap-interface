@@ -1,6 +1,6 @@
 import { Token } from 'bubo-swap-sdk'
 import { transparentize } from 'polished'
-import { Button, Text } from '@pancakeswap-libs/uikit'
+import { Button, Text } from 'bubo-swap-uikit'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'
 import { useActiveWeb3React } from '../../hooks'

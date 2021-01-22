@@ -1,8 +1,8 @@
 import { Trade, TradeType } from 'bubo-swap-sdk'
 import React, { useMemo, useState } from 'react'
-import { Text } from '@pancakeswap-libs/uikit'
+import { Text } from 'bubo-swap-uikit'
 import { Repeat } from 'react-feather'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from 'bubo-swap-uikit'
 import { Field } from '../../state/swap/actions'
 import {
   computeSlippageAdjustedAmounts,

@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { Link, RouteComponentProps, withRouter } from 'react-router-dom'
 import { Token, TokenAmount, WETH } from 'bubo-swap-sdk'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from 'bubo-swap-uikit'
 import { Text } from 'rebass'
 import { AutoColumn } from '../Column'
 import { RowBetween, RowFixed } from '../Row'

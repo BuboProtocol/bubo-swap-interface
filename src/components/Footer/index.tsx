@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Link } from '@pancakeswap-libs/uikit'
+import { Link } from 'bubo-swap-uikit'
 import config from './config'
 
 const StyledFooter = styled.footer`

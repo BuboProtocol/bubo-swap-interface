@@ -1,6 +1,6 @@
 import React from 'react'
 import { Text } from 'rebass'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from 'bubo-swap-uikit'
 import { ExternalLink } from '../Shared'
 import { OutlineCard } from '../Card'
 import Column, { AutoColumn } from '../Column'
