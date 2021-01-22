@@ -1,6 +1,6 @@
 {
-  "name": "@pancakeswap/interface",
-  "description": "Pancakeswap Interface",
+  "name": "bubo-swap-interface",
+  "description": "Bubo Protocol Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
