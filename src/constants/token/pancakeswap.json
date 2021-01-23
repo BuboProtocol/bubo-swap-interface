@@ -58,6 +58,14 @@
       "logoURI": "/images/coins/BTC.png"
     },
     {
+      "name": "BUBO",
+      "symbol": "BUBO",
+      "address": "0x993cb0EB0A584Adf0491057593FB19661d883FFa",      
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/bubo.png"
+    },    
+    {
       "name": "Bakery Token",
       "symbol": "BAKE",
       "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
